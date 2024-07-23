@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<svg width="30" height="30" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <g class="currentLayer layer">
+  <title>Layer 1</title>
+  <circle cx="15" cy="15" fill="#9e133c" id="svg_1" r="15"/>
+  <path d="m6.51,7.45" fill="#ffffff" fill-rule="nonzero" id="svg_4" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <path d="m5.57,5.9" fill="#9e133c" fill-rule="nonzero" id="svg_2"/>
+  <path class="selected" d="m23.78,14.06l-2.28,-2.29l0,-5.45l-1.96,0l0,3.5l-4.57,-4.57l-8.8,8.81l2.1,-0.05l0,8.9l13.32,0l0,-8.85l2.19,0zm-8.81,7.58l-4.34,0l0,-5.22l4.34,0l0,5.22zm4.23,-2.24l-2.86,0l0,-3.01l2.86,0l0,3.01z" fill="#ffffff" fill-rule="nonzero" id="svg_5"/>
+  <path d="m14.44,14.34l-0.08,-0.08l0,-0.19l-0.07,0l0,0.12l-0.17,-0.16l-0.31,0.31l0.08,0l0,0.32l0.47,0l0,-0.32l0.08,0zm-0.32,0.27l-0.15,0l0,-0.18l0.15,0l0,0.18zm0.16,-0.08l-0.11,0l0,-0.11l0.11,0l0,0.11z" fill="#ffffff" fill-rule="nonzero" id="svg_7"/>
+ </g>
+ <g class="layer">
+  <title>Layer 2</title>
+  <rect fill="none" height="100%" id="backgroundrect" width="100%" x="0" y="0"/>
+ </g>
+</svg>
